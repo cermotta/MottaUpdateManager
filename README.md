@@ -7,7 +7,7 @@ Ferramenta profissional para automação de atualizações e manutenção de dri
 ## 📺 Veja uma tela do sistema
 Logo abaixo, você pode conferir a interface intuitiva do **Motta Update Manager** em pleno funcionamento:
 
-<img width="1013" height="539" alt="image" src="https://github.com/user-attachments/assets/87a13b9a-9de5-4869-96cc-c7b4ef569d00" />
+<img width="1013" height="537" alt="image" src="https://github.com/user-attachments/assets/94fd0bca-7e3f-476b-a46f-4e4ded285845" />
 
 ## ✨ Funcionalidades
 - **Verificar Atualizações**: Identifica apps pendentes de atualização via Winget.
