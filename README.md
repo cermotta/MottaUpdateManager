@@ -19,6 +19,8 @@ Logo abaixo, você pode conferir a interface intuitiva do **Motta Update Manager
 2. Baixe o arquivo `MottaUpdateManager.exe` mais recente.
 3. **Importante**: Execute como Administrador para garantir todas as permissões necessárias.
 
+Desenvolvido por Eduardo Motta. Transparência, performance e eficiência em automação.
+
 ## 🤝 Apoie o Desenvolvedor
 Se este software te ajudou a otimizar sua máquina, considere apoiar o projeto com um PIX.
 
