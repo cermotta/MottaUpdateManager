@@ -2,6 +2,8 @@
 
 Ferramenta profissional para automação de atualizações e manutenção de drivers no Windows. Desenvolvido para facilitar a rotina de quem busca um sistema sempre rápido, estável e atualizado.
 
+### 📋 Versão Atual: v1.3.2 (Revisado em 18/07/2026)
+
 ## 📺 Veja uma tela do sistema
 Logo abaixo, você pode conferir a interface intuitiva do **Motta Update Manager** em pleno funcionamento:
 
@@ -16,7 +18,7 @@ Logo abaixo, você pode conferir a interface intuitiva do **Motta Update Manager
 
 ## 🛠 Como Instalar
 1. Vá em **Releases** (lado direito da página).
-2. Baixe o arquivo `MottaUpdateManager.exe` mais recente.
+2. Baixe o arquivo `MottaUpdateManager.exe` da versão **v1.3.2**.
 3. **Importante**: Execute como Administrador para garantir todas as permissões necessárias.
 
 Desenvolvido por Eduardo Motta. Transparência, performance e eficiência em automação.
