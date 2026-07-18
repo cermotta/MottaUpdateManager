@@ -2,6 +2,11 @@
 
 Ferramenta profissional para automação de atualizações e manutenção de drivers no Windows. Desenvolvido para facilitar a rotina de quem busca um sistema sempre rápido, estável e atualizado.
 
+## 📺 Veja uma tela do sistema
+Logo abaixo, você pode conferir a interface intuitiva do **Motta Update Manager** em pleno funcionamento:
+
+<img width="984" height="523" alt="image" src="https://github.com/user-attachments/assets/a8630fa2-40f2-4882-b191-d8f3b539280a" />
+
 ## ✨ Funcionalidades
 - **Verificar Atualizações**: Identifica apps pendentes de atualização via Winget.
 - **Atualização em Massa**: Atualiza todos os seus softwares instalados com um comando.
@@ -14,16 +19,11 @@ Ferramenta profissional para automação de atualizações e manutenção de dri
 2. Baixe o arquivo `MottaUpdateManager.exe` mais recente.
 3. **Importante**: Execute como Administrador para garantir todas as permissões.
 
-<img width="1020" height="551" alt="image" src="https://github.com/user-attachments/assets/3680b57b-6d6c-4046-b095-a3eb613ae5d3" />
-
 ## 🤝 Apoie o Desenvolvedor
-Se este software te ajudou a economizar tempo e otimizar sua máquina, considere apoiar o projeto via PIX.
-
-**Chave PIX (E-mail):**
-`mottatshirts@jim.com`
+Se este software te ajudou a economizar tempo e otimizar sua máquina, considere apoiar o projeto com um PIX de R$ 5,00. Isso ajuda a manter as ferramentas ativas e gratuitas!
 
 **PIX Copia e Cola (R$ 5,00):**
-`00020126360014br.gov.bcb.pix0114mottatshirts@jim.com52040000530398654045.005802BR5909Eduardo M6006BelemP62070503***6304`
+`00020101021226840014BR.GOV.BCB.PIX0136dbf0d223-9202-4aaa-b881-cce9603f8fc20222Pagamento mottatshirts52040000530398654045.005802BR5925CARLOS EDUARDO ROLIM DA M6005BELEM62290525QRCCIICLZgxrN6aElFvgLxPOC63044CBF`
 
 ---
 *Desenvolvido por Eduardo Motta. Transparência, performance e eficiência em automação.*
