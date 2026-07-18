@@ -20,8 +20,11 @@ Logo abaixo, você pode conferir a interface intuitiva do **Motta Update Manager
 3. **Importante**: Execute como Administrador para garantir todas as permissões necessárias.
 
 ## 🤝 Apoie o Desenvolvedor
-Se este software te ajudou a economizar tempo e otimizar sua máquina, considere apoiar o projeto com um PIX de R$ 5,00. Isso ajuda a manter as ferramentas ativas e gratuitas!
+Se este software te ajudou a otimizar sua máquina, considere apoiar o projeto com um PIX.
 
-**PIX Copia e Cola (R$ 5,00):**
+**Chave PIX (E-mail - Qualquer Valor):**
+`mottatshirts@jim.com`
+
+**PIX Copia e Cola (Valor Fixo R$ 5,00):**
 ```text
 00020101021226840014BR.GOV.BCB.PIX0136dbf0d223-9202-4aaa-b881-cce9603f8fc20222Pagamento mottatshirts52040000530398654045.005802BR5925CARLOS EDUARDO ROLIM DA M6005BELEM62290525QRCCIICLZgxrN6aElFvgLxPOC63044CBF
