@@ -23,7 +23,8 @@ Logo abaixo, você pode conferir a interface intuitiva do **Motta Update Manager
 Se este software te ajudou a economizar tempo e otimizar sua máquina, considere apoiar o projeto com um PIX de R$ 5,00. Isso ajuda a manter as ferramentas ativas e gratuitas!
 
 **PIX Copia e Cola (R$ 5,00):**
-`00020101021226840014BR.GOV.BCB.PIX0136dbf0d223-9202-4aaa-b881-cce9603f8fc20222Pagamento mottatshirts52040000530398654045.005802BR5925CARLOS EDUARDO ROLIM DA M6005BELEM62290525QRCCIICLZgxrN6aElFvgLxPOC63044CBF`
+```text
+00020101021226840014BR.GOV.BCB.PIX0136dbf0d223-9202-4aaa-b881-cce9603f8fc20222Pagamento mottatshirts52040000530398654045.005802BR5925CARLOS EDUARDO ROLIM DA M6005BELEM62290525QRCCIICLZgxrN6aElFvgLxPOC63044CBF
 
 ---
 *Desenvolvido por Eduardo Motta. Transparência, performance e eficiência em automação.*
