@@ -5,7 +5,7 @@ Ferramenta profissional para automação de atualizações e manutenção de dri
 ## 📺 Veja uma tela do sistema
 Logo abaixo, você pode conferir a interface intuitiva do **Motta Update Manager** em pleno funcionamento:
 
-<img width="984" height="523" alt="image" src="https://github.com/user-attachments/assets/a8630fa2-40f2-4882-b191-d8f3b539280a" />
+<img width="1013" height="539" alt="image" src="https://github.com/user-attachments/assets/87a13b9a-9de5-4869-96cc-c7b4ef569d00" />
 
 ## ✨ Funcionalidades
 - **Verificar Atualizações**: Identifica apps pendentes de atualização via Winget.
@@ -17,7 +17,7 @@ Logo abaixo, você pode conferir a interface intuitiva do **Motta Update Manager
 ## 🛠 Como Instalar
 1. Vá em **Releases** (lado direito da página).
 2. Baixe o arquivo `MottaUpdateManager.exe` mais recente.
-3. **Importante**: Execute como Administrador para garantir todas as permissões.
+3. **Importante**: Execute como Administrador para garantir todas as permissões necessárias.
 
 ## 🤝 Apoie o Desenvolvedor
 Se este software te ajudou a economizar tempo e otimizar sua máquina, considere apoiar o projeto com um PIX de R$ 5,00. Isso ajuda a manter as ferramentas ativas e gratuitas!
@@ -25,6 +25,3 @@ Se este software te ajudou a economizar tempo e otimizar sua máquina, considere
 **PIX Copia e Cola (R$ 5,00):**
 ```text
 00020101021226840014BR.GOV.BCB.PIX0136dbf0d223-9202-4aaa-b881-cce9603f8fc20222Pagamento mottatshirts52040000530398654045.005802BR5925CARLOS EDUARDO ROLIM DA M6005BELEM62290525QRCCIICLZgxrN6aElFvgLxPOC63044CBF
-
----
-*Desenvolvido por Eduardo Motta. Transparência, performance e eficiência em automação.*
